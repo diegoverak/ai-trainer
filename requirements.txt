@@ -1,0 +1,29 @@
+# Requirements for LLM Training, RAG, Fine-Tuning, RLHF, and Chatbot Applications
+
+# General Dependencies
+transformers==4.25.1
+datasets==2.7.1
+scipy==1.10.1
+numpy==1.24.2
+pandas==1.5.3
+
+# For RAG (Retrieval-Augmented Generation)
+huggingface-hub==0.10.1
+faiss-cpu==1.7.2
+
+# For Fine-Tuning
+torch==1.13.1+cu117
+# If using a specific CUDA version, update accordingly
+
+# For RLHF (Reinforcement Learning from Human Feedback)
+ray[default]==2.3.0
+
+# For Chatbot Applications
+fastapi==0.95.0
+uvicorn==0.21.0
+
+# Additional Tools
+langchain==0.0.195
+
+# Testing
+pytest==7.3.1
