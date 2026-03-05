@@ -57,7 +57,7 @@ Sunlight may look white, but it is actually made of many colors mixed together, 
 * Structure: The golden answer is correctly structured, introducing the concept of light decomposition through mental images, thus making the concept of light dispersion due to particles in the air easier to understand.
 * Training signal quality:  The golden answer is the most complete answer, and the one that adapts the most to the requested audience: a group of kids.  
 
-In sum, while both answers are factually correct, the golden answer is pedagogically more suitable to explain the phenomenon to kids, utilizing mind images to introduce concepts, clear concept associations,and explains light dispersion due to air particles in simple terms, which makes it more suitable to the requested audience, a group of kids. The golden answer is suitable for instruction-based training.
+In sum, while both answers are factually correct, the golden answer is pedagogically more suitable to explain the phenomenon to kids, utilizing mind images to introduce concepts, clear concept associations,and explaining light dispersion due to air particles in simple terms, which makes it more suitable to the requested audience, a group of kids. The golden answer is suitable for instruction-based training.
 
 
 ## Case 3
