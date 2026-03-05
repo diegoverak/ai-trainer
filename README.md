@@ -22,8 +22,3 @@ Each section contains real examples of:
 • response ranking
 • annotation guidelines
 • adversarial testing
-
-For any inquiries, please reach out:
-
-- **Name**: Diego Vera
-- **Email**: <diegoverak@gmail.com>
